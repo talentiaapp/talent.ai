@@ -1,0 +1,45 @@
+
+
+.img1{
+    text-align: center;
+    max-height: 500px;
+    padding-right: 200px;
+
+}
+
+@media (max-width: 768px){
+    body{
+        font-family: 'Prime-Regular';
+    }
+    
+    .titulo{
+        font-size: 50px;
+        text-align: center;
+    }
+    
+    .subtitulo{
+        font-size: 30px;
+        text-align: center;
+    }
+    
+    .boton{
+        font-size: 25px;
+        font-family: 'Prime-Regular';
+        text-align: center;
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    .img1{
+        max-height: 200px;
+    }    
+
+    .center{
+        text-align: center;
+    }
+        
+    .footer{
+        text-align: center;
+        padding: 50px;
+    }
+}

@@ -1,0 +1,56 @@
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: #610000;
+}
+
+.preguntas{
+    font-size: 20px;
+}
+
+.boton2{
+    font-size: 15px;
+    text-align: center;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+textarea{
+    margin-bottom: 15px;
+}
+  
+
+
+@media (max-width: 1024px){
+    
+    a{
+        text-decoration: none;
+        color: black;
+    }
+
+    a:hover{
+        color: #610000;
+    }
+
+    .preguntas{
+        font-size: 20px;
+    }
+
+    .boton2{
+        font-size: 15px;
+        text-align: center;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    textarea{
+        margin-bottom: 15px;
+    }
+
+    
+}
+
